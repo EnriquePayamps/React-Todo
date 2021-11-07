@@ -1,0 +1,22 @@
+{
+    "todos":[
+        {
+          "titulo": "Tarea 1",
+          "responsable":"Alex",
+          "descripcion":"Loren imsum",
+          "prioridad":"Baja"
+        },
+        {
+            "titulo": "Tarea 2",
+            "responsable":"Enrique",
+            "descripcion":"Loren imsum",
+            "prioridad":"Media"
+          },
+          {
+            "titulo": "Tarea 3",
+            "responsable":"Anderson",
+            "descripcion":"Loren imsum",
+            "prioridad":"Alta"
+          }
+    ]
+}
